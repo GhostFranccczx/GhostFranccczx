@@ -1,0 +1,414 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A phone rings, tofu answers and sends envelopes flying to Instagram and Facebook" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NjE5ZmQxZC0xY2FjLTRiNzMtYTFjNC03YzRlNzBlODc5NmUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFKf7rUtOk3OajGxfPqjtSEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MjI2NjJlMy00MTRiLTRjN2YtOGJmMS0zNGU5MTk5NzcyNWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNot0G0RoH5gEnozwJH8NTskgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggdH/OhB10/VQKTzwKFH9Org1nJh2dGrJI9At+RrTpsiGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFhkhYVUTCc+cxsaXkgt2rkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAaVAUGxPHt3+vYK/gtIUS4rwPyLiGNSVp3b3oyLKuGhWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj/Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ2MTlmZDFkLTFjYWMtNGI3My1hMWM0LTdjNGU3MGU4Nzk2ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZlZGM2NDYwLWY1YjUtNDY2NC04OWZhLTE5NjJmMjAyY2FhMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB0f86EHXT9VApPPAoUf06uDWcmHZ0askj0C35GtOmyIaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggL1xstX49SYMakeIaxUzkBS7RvdPU3zaC3S7KRVhe6IKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggC5uPBgeEEflSKeKzVw5yo12rro8271tu8qEEILosRUx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJoUvnGbuFhXRobD2eNyhb7rL1ogy8B4C3/xa2hZ7SDm48d3RhhCW0xDrI76Sw9O0NxSeWcHrJE2++715BAEjsw=</c2pa:manifest></metadata>
+  <style>
+    :root { --fg:#111111; --mut:#6b7280; --acc:#e5484d; --line:#d4d4d8; --tile:#fafafa; --win:#ffffff; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fg:#f5f5f4; --mut:#9ca3af; --acc:#ff6b6b; --line:#3f3f46; --tile:#18181b; --win:#0e0e10; }
+    }
+    .kick  { font: 500 12px 'SF Mono', Menlo, Consolas, monospace; letter-spacing: 5px; fill: var(--mut); }
+    .dot   { fill: var(--acc); animation: pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .floor { stroke: var(--line); stroke-width: 2; stroke-linecap: round; stroke-dasharray: 1 9; animation: march 1.4s linear infinite; }
+
+    .shake, .hop, .squash, .tile, .e, .bub, .accept { animation-duration: 10s; animation-iteration-count: infinite; }
+    .shake  { animation-name: shake; transform-origin: 0 0; }
+    .shake { animation-timing-function: linear; }
+    .hop    { animation-name: hop; }
+    .squash { animation-name: squash; }
+    ellipse.shade { fill: #000; animation: shade 10s infinite; transform-box: fill-box; transform-origin: center; }
+    .ph-shd { fill: #000; opacity: .18; }
+    .pbody  { fill: var(--tile); stroke: var(--fg); stroke-width: 2.5; }
+    .pscreen{ fill: var(--win); stroke: var(--line); stroke-width: 1; }
+    .pcam   { fill: var(--mut); }
+    .avatar { fill: var(--acc); opacity: .9; }
+    .ptxt   { font: 500 8px 'SF Mono', Menlo, Consolas, monospace; letter-spacing: 1.5px; fill: var(--mut); text-anchor: middle;
+              animation-duration: 10s; animation-iteration-count: infinite; opacity: 0; }
+    .accept { transform-box: fill-box; transform-origin: center; }
+    .arc    { fill: none; stroke: var(--acc); stroke-width: 2.4; stroke-linecap: round; opacity: 0;
+              animation-duration: 10s; animation-iteration-count: infinite; }
+
+    .tcard  { fill: var(--tile); stroke: var(--line); stroke-width: 1.5; animation-duration: 10s; animation-iteration-count: infinite; }
+    .tlab   { font: 500 10px 'SF Mono', Menlo, Consolas, monospace; letter-spacing: 3px; fill: var(--mut); }
+    .thandle{ font: 300 21px Georgia, 'Times New Roman', serif; fill: var(--fg); }
+    .gl     { fill: none; stroke: var(--acc); stroke-width: 2.2; }
+    .glf    { fill: var(--acc); }
+    .fbf    { font: 700 20px Georgia, serif; fill: var(--acc); text-anchor: middle; }
+
+    .e      { transform-origin: 0 0; opacity: 1; }
+    .e.look { opacity: 0; }
+    .envr   { fill: var(--tile); stroke: var(--acc); stroke-width: 1.8; stroke-linejoin: round; }
+    .flap   { fill: none; stroke: var(--acc); stroke-width: 1.8; stroke-linejoin: round; }
+
+    .bub    { opacity: 0; }
+    .bbl    { fill: var(--tile); stroke: var(--line); stroke-width: 1.5; stroke-linejoin: round; }
+    .bbl.tail { fill: var(--tile); }
+    .btx    { font: 400 12px 'SF Mono', Menlo, Consolas, monospace; fill: var(--fg); text-anchor: middle; }
+
+    .front { fill: #fffaf0; stroke: #d9cca6; stroke-width: 2; }
+    .top   { fill: #fffffa; stroke: #d9cca6; stroke-width: 2; stroke-linejoin: round; }
+    .side  { fill: #f0e6cb; stroke: #d9cca6; stroke-width: 2; stroke-linejoin: round; }
+    .eye   { fill: #25221c; transform-box: fill-box; transform-origin: center; animation: blink 4s infinite; }
+    .cheek { fill: #ff8a80; opacity: .55; }
+    .mouth { fill: none; stroke: #25221c; stroke-width: 2.2; stroke-linecap: round; }
+    .stem  { fill: none; stroke: #4f9d4a; stroke-width: 2; stroke-linecap: round; }
+    .leaf  { fill: #6bbf59; }
+    .sprig { transform-box: fill-box; transform-origin: 100% 100%; animation: sway 3s ease-in-out infinite; }
+
+    @keyframes march { to { stroke-dashoffset: -20; } }
+    @keyframes pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .35; } }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    @keyframes sway  { 0%,100% { transform: rotate(-6deg); } 50% { transform: rotate(7deg); } }
+    @keyframes hop {
+      0.000% { transform: translateY(0px); }
+      2.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      4.000% { transform: translateY(-16px); animation-timing-function: ease-in; }
+      6.000% { transform: translateY(0px); }
+      11.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      13.000% { transform: translateY(-16px); animation-timing-function: ease-in; }
+      15.000% { transform: translateY(0px); }
+      20.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      22.000% { transform: translateY(-16px); animation-timing-function: ease-in; }
+      24.000% { transform: translateY(0px); }
+      27.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      29.500% { transform: translateY(-34px); animation-timing-function: ease-in; }
+      32.000% { transform: translateY(0px); }
+    }
+    @keyframes squash {
+      0.000% { transform: scale(1,1); }
+      1.500% { transform: scale(1,1); animation-timing-function: ease-out; }
+      2.500% { transform: scale(0.94,1.1); }
+      5.500% { transform: scale(0.96,1.06); }
+      6.000% { transform: scale(1.1,0.88); animation-timing-function: ease-out; }
+      7.800% { transform: scale(1,1); }
+      10.500% { transform: scale(1,1); animation-timing-function: ease-out; }
+      11.500% { transform: scale(0.94,1.1); }
+      14.500% { transform: scale(0.96,1.06); }
+      15.000% { transform: scale(1.1,0.88); animation-timing-function: ease-out; }
+      16.800% { transform: scale(1,1); }
+      19.500% { transform: scale(1,1); animation-timing-function: ease-out; }
+      20.500% { transform: scale(0.94,1.1); }
+      23.500% { transform: scale(0.96,1.06); }
+      24.000% { transform: scale(1.1,0.88); animation-timing-function: ease-out; }
+      25.800% { transform: scale(1,1); }
+      25.820% { transform: scale(1,1); animation-timing-function: ease-in; }
+      26.800% { transform: scale(1.14,0.84); animation-timing-function: ease-out; }
+      28.000% { transform: scale(0.9,1.16); }
+      31.000% { transform: scale(0.94,1.08); }
+      32.000% { transform: scale(1.2,0.78); animation-timing-function: ease-out; }
+      33.500% { transform: scale(1,1); animation-timing-function: ease-in; }
+      34.500% { transform: scale(1,1); }
+      34.800% { transform: scale(1.12,0.88); animation-timing-function: ease-out; }
+      36.200% { transform: scale(0.94,1.08); }
+      38.500% { transform: scale(1,1); }
+      45.500% { transform: scale(1,1); animation-timing-function: ease-in; }
+      46.800% { transform: scale(1.12,0.88); animation-timing-function: ease-out; }
+      48.200% { transform: scale(0.94,1.08); }
+      50.500% { transform: scale(1,1); }
+      57.500% { transform: scale(1,1); animation-timing-function: ease-in; }
+      58.800% { transform: scale(1.12,0.88); animation-timing-function: ease-out; }
+      60.200% { transform: scale(0.94,1.08); }
+      62.500% { transform: scale(1,1); }
+      69.500% { transform: scale(1,1); animation-timing-function: ease-in; }
+      70.800% { transform: scale(1.12,0.88); animation-timing-function: ease-out; }
+      72.200% { transform: scale(0.94,1.08); }
+      74.500% { transform: scale(1,1); }
+    }
+    @keyframes shade {
+      0.000% { transform: scale(1); opacity: 0.25; }
+      2.000% { transform: scale(1); opacity: 0.25; animation-timing-function: ease-out; }
+      4.000% { transform: scale(0.75); opacity: 0.15; animation-timing-function: ease-in; }
+      6.000% { transform: scale(1); opacity: 0.25; }
+      11.000% { transform: scale(1); opacity: 0.25; animation-timing-function: ease-out; }
+      13.000% { transform: scale(0.75); opacity: 0.15; animation-timing-function: ease-in; }
+      15.000% { transform: scale(1); opacity: 0.25; }
+      20.000% { transform: scale(1); opacity: 0.25; animation-timing-function: ease-out; }
+      22.000% { transform: scale(0.75); opacity: 0.15; animation-timing-function: ease-in; }
+      24.000% { transform: scale(1); opacity: 0.25; }
+      27.000% { transform: scale(1); opacity: 0.25; animation-timing-function: ease-out; }
+      29.500% { transform: scale(0.55); opacity: 0.08; animation-timing-function: ease-in; }
+      32.000% { transform: scale(1); opacity: 0.25; }
+    }
+    @keyframes shake {
+      0.000% { transform: rotate(0deg); }
+      2.000% { transform: rotate(0deg); }
+      2.800% { transform: rotate(-8deg); }
+      3.600% { transform: rotate(8deg); }
+      4.400% { transform: rotate(-7deg); }
+      5.200% { transform: rotate(7deg); }
+      6.200% { transform: rotate(-3deg); }
+      7.200% { transform: rotate(0deg); }
+      11.000% { transform: rotate(0deg); }
+      11.800% { transform: rotate(-8deg); }
+      12.600% { transform: rotate(8deg); }
+      13.400% { transform: rotate(-7deg); }
+      14.200% { transform: rotate(7deg); }
+      15.200% { transform: rotate(-3deg); }
+      16.200% { transform: rotate(0deg); }
+      20.000% { transform: rotate(0deg); }
+      20.800% { transform: rotate(-8deg); }
+      21.600% { transform: rotate(8deg); }
+      22.400% { transform: rotate(-7deg); }
+      23.200% { transform: rotate(7deg); }
+      24.200% { transform: rotate(-3deg); }
+      25.200% { transform: rotate(0deg); }
+    }
+    @keyframes arc0 {
+      0.000% { opacity:0; }
+      2.000% { opacity:0; }
+      3.200% { opacity:1; }
+      7.000% { opacity:0; }
+      11.000% { opacity:0; }
+      12.200% { opacity:1; }
+      16.000% { opacity:0; }
+      20.000% { opacity:0; }
+      21.200% { opacity:1; }
+      25.000% { opacity:0; }
+    }
+    @keyframes arc1 {
+      0.000% { opacity:0; }
+      3.200% { opacity:0; }
+      4.400% { opacity:1; }
+      8.200% { opacity:0; }
+      12.200% { opacity:0; }
+      13.400% { opacity:1; }
+      17.200% { opacity:0; }
+      21.200% { opacity:0; }
+      22.400% { opacity:1; }
+      26.200% { opacity:0; }
+    }
+    @keyframes arc2 {
+      0.000% { opacity:0; }
+      4.400% { opacity:0; }
+      5.600% { opacity:1; }
+      9.400% { opacity:0; }
+      13.400% { opacity:0; }
+      14.600% { opacity:1; }
+      18.400% { opacity:0; }
+      22.400% { opacity:0; }
+      23.600% { opacity:1; }
+      27.400% { opacity:0; }
+    }
+    @keyframes incoming {
+      0.000% { opacity:1; }
+      27.000% { opacity:1; }
+      27.100% { opacity:0; }
+      92.000% { opacity:0; }
+      92.100% { opacity:1; }
+      100.000% { opacity:1; }
+    }
+    @keyframes connected {
+      0.000% { opacity:0; }
+      28.000% { opacity:0; }
+      28.100% { opacity:1; }
+      92.000% { opacity:1; }
+      92.100% { opacity:0; }
+      100.000% { opacity:0; }
+    }
+    @keyframes accept {
+      0.000% { transform: scale(1); }
+      2.000% { transform: scale(1); }
+      3.500% { transform: scale(1.35); }
+      6.000% { transform: scale(1); }
+      11.000% { transform: scale(1); }
+      12.500% { transform: scale(1.35); }
+      15.000% { transform: scale(1); }
+      20.000% { transform: scale(1); }
+      21.500% { transform: scale(1.35); }
+      24.000% { transform: scale(1); }
+    }
+    @keyframes bubA {
+      0.000% { opacity:0; transform: translateY(10px) scale(.7); }
+      29.000% { opacity:0; transform: translateY(10px) scale(.7); animation-timing-function: cubic-bezier(.3,1.6,.5,1); }
+      33.000% { opacity:1; transform: translateY(0) scale(1); }
+      36.000% { opacity:1; transform: translateY(0) scale(1); }
+      39.000% { opacity:0; transform: translateY(-6px) scale(.9); }
+      100.000% { opacity:0; transform: translateY(10px) scale(.7); }
+    }
+    @keyframes bubB {
+      0.000% { opacity:0; transform: translateY(10px) scale(.7); }
+      40.000% { opacity:0; transform: translateY(10px) scale(.7); animation-timing-function: cubic-bezier(.3,1.6,.5,1); }
+      44.000% { opacity:1; transform: translateY(0) scale(1); }
+      87.000% { opacity:1; transform: translateY(0) scale(1); }
+      90.000% { opacity:0; transform: translateY(-6px) scale(.9); }
+      100.000% { opacity:0; transform: translateY(10px) scale(.7); }
+    }
+    @keyframes ex0 {
+      0.000% { transform: translateX(0px); }
+      35.000% { transform: translateX(0px); animation-timing-function: linear; }
+      47.000% { transform: translateX(176px); }
+      100.000% { transform: translateX(176px); }
+    }
+    @keyframes ey0 {
+      0.000% { transform: translateY(0px); }
+      35.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      41.000% { transform: translateY(-136.0px); animation-timing-function: ease-in; }
+      47.000% { transform: translateY(-78.0px); }
+      100.000% { transform: translateY(-78.0px); }
+    }
+    @keyframes el0 {
+      0.000% { opacity:0; transform: scale(.5) rotate(0deg); }
+      35.000% { opacity:0; transform: scale(.5) rotate(-14deg); }
+      36.500% { opacity:1; transform: scale(1) rotate(-6deg); }
+      41.600% { opacity:1; transform: scale(1.05) rotate(8deg); }
+      46.200% { opacity:1; transform: scale(.7) rotate(14deg); }
+      47.000% { opacity:0; transform: scale(.4) rotate(16deg); }
+      100.000% { opacity:0; transform: scale(.4) rotate(0deg); }
+    }
+    @keyframes ex1 {
+      0.000% { transform: translateX(0px); }
+      47.000% { transform: translateX(0px); animation-timing-function: linear; }
+      59.000% { transform: translateX(176px); }
+      100.000% { transform: translateX(176px); }
+    }
+    @keyframes ey1 {
+      0.000% { transform: translateY(0px); }
+      47.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      53.000% { transform: translateY(-58px); animation-timing-function: ease-in; }
+      59.000% { transform: translateY(8.0px); }
+      100.000% { transform: translateY(8.0px); }
+    }
+    @keyframes el1 {
+      0.000% { opacity:0; transform: scale(.5) rotate(0deg); }
+      47.000% { opacity:0; transform: scale(.5) rotate(-14deg); }
+      48.500% { opacity:1; transform: scale(1) rotate(-6deg); }
+      53.600% { opacity:1; transform: scale(1.05) rotate(8deg); }
+      58.200% { opacity:1; transform: scale(.7) rotate(14deg); }
+      59.000% { opacity:0; transform: scale(.4) rotate(16deg); }
+      100.000% { opacity:0; transform: scale(.4) rotate(0deg); }
+    }
+    @keyframes ex2 {
+      0.000% { transform: translateX(0px); }
+      59.000% { transform: translateX(0px); animation-timing-function: linear; }
+      71.000% { transform: translateX(176px); }
+      100.000% { transform: translateX(176px); }
+    }
+    @keyframes ey2 {
+      0.000% { transform: translateY(0px); }
+      59.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      65.000% { transform: translateY(-136.0px); animation-timing-function: ease-in; }
+      71.000% { transform: translateY(-78.0px); }
+      100.000% { transform: translateY(-78.0px); }
+    }
+    @keyframes el2 {
+      0.000% { opacity:0; transform: scale(.5) rotate(0deg); }
+      59.000% { opacity:0; transform: scale(.5) rotate(-14deg); }
+      60.500% { opacity:1; transform: scale(1) rotate(-6deg); }
+      65.600% { opacity:1; transform: scale(1.05) rotate(8deg); }
+      70.200% { opacity:1; transform: scale(.7) rotate(14deg); }
+      71.000% { opacity:0; transform: scale(.4) rotate(16deg); }
+      100.000% { opacity:0; transform: scale(.4) rotate(0deg); }
+    }
+    @keyframes ex3 {
+      0.000% { transform: translateX(0px); }
+      71.000% { transform: translateX(0px); animation-timing-function: linear; }
+      83.000% { transform: translateX(176px); }
+      100.000% { transform: translateX(176px); }
+    }
+    @keyframes ey3 {
+      0.000% { transform: translateY(0px); }
+      71.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      77.000% { transform: translateY(-58px); animation-timing-function: ease-in; }
+      83.000% { transform: translateY(8.0px); }
+      100.000% { transform: translateY(8.0px); }
+    }
+    @keyframes el3 {
+      0.000% { opacity:0; transform: scale(.5) rotate(0deg); }
+      71.000% { opacity:0; transform: scale(.5) rotate(-14deg); }
+      72.500% { opacity:1; transform: scale(1) rotate(-6deg); }
+      77.600% { opacity:1; transform: scale(1.05) rotate(8deg); }
+      82.200% { opacity:1; transform: scale(.7) rotate(14deg); }
+      83.000% { opacity:0; transform: scale(.4) rotate(16deg); }
+      100.000% { opacity:0; transform: scale(.4) rotate(0deg); }
+    }
+    @keyframes tileig {
+      0.000% { transform: translateY(0px); }
+      47.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      48.200% { transform: translateY(-7px); animation-timing-function: ease-in; }
+      50.000% { transform: translateY(0px); }
+      71.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      72.200% { transform: translateY(-7px); animation-timing-function: ease-in; }
+      74.000% { transform: translateY(0px); }
+    }
+    @keyframes flashig {
+      0.000% { stroke: var(--line); stroke-width: 1.5; }
+      46.500% { stroke: var(--line); stroke-width: 1.5; }
+      47.000% { stroke: var(--acc); stroke-width: 3; }
+      55.000% { stroke: var(--line); stroke-width: 1.5; }
+      70.500% { stroke: var(--line); stroke-width: 1.5; }
+      71.000% { stroke: var(--acc); stroke-width: 3; }
+      79.000% { stroke: var(--line); stroke-width: 1.5; }
+    }
+    @keyframes tilefb {
+      0.000% { transform: translateY(0px); }
+      59.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      60.200% { transform: translateY(-7px); animation-timing-function: ease-in; }
+      62.000% { transform: translateY(0px); }
+      83.000% { transform: translateY(0px); animation-timing-function: ease-out; }
+      84.200% { transform: translateY(-7px); animation-timing-function: ease-in; }
+      86.000% { transform: translateY(0px); }
+    }
+    @keyframes flashfb {
+      0.000% { stroke: var(--line); stroke-width: 1.5; }
+      58.500% { stroke: var(--line); stroke-width: 1.5; }
+      59.000% { stroke: var(--acc); stroke-width: 3; }
+      67.000% { stroke: var(--line); stroke-width: 1.5; }
+      82.500% { stroke: var(--line); stroke-width: 1.5; }
+      83.000% { stroke: var(--acc); stroke-width: 3; }
+      91.000% { stroke: var(--line); stroke-width: 1.5; }
+    }
+  </style>
+
+  <circle class="dot" cx="34" cy="31" r="4"/>
+  <text class="kick" x="52" y="36">SAY HELLO</text>
+  <line class="floor" x1="50" y1="208" x2="850" y2="208"/>
+
+  <g transform="translate(150,208)">
+    <ellipse class="ph-shd" cx="0" cy="2" rx="34" ry="5"/>
+    <g class="shake">
+      <g transform="translate(36,-84)"><g transform="scale(1,1)"><path class="arc" style="animation-name:arc0" d="M6.7,-7.4 A10,10 0 0 1 6.7,7.4"/><path class="arc" style="animation-name:arc1" d="M12.7,-14.1 A19,19 0 0 1 12.7,14.1"/><path class="arc" style="animation-name:arc2" d="M18.7,-20.8 A28,28 0 0 1 18.7,20.8"/></g></g>
+      <g transform="translate(-36,-84)"><g transform="scale(-1,1)"><path class="arc" style="animation-name:arc0" d="M6.7,-7.4 A10,10 0 0 1 6.7,7.4"/><path class="arc" style="animation-name:arc1" d="M12.7,-14.1 A19,19 0 0 1 12.7,14.1"/><path class="arc" style="animation-name:arc2" d="M18.7,-20.8 A28,28 0 0 1 18.7,20.8"/></g></g>
+      <rect class="pbody" x="-30" y="-98" width="60" height="98" rx="12"/>
+      <rect class="pscreen" x="-25" y="-90" width="50" height="76" rx="6"/>
+      <circle cx="0" cy="-92" r="1.6" class="pcam"/>
+      <circle class="avatar" cx="0" cy="-66" r="10"/>
+      <text class="ptxt in1" x="0" y="-42" style="animation-name:incoming">incoming</text>
+      <text class="ptxt in2" x="0" y="-42" style="animation-name:connected">00:03</text>
+      <g class="accept" style="animation-name:accept"><circle cx="-12" cy="-27" r="6.5" fill="#4ade80"/></g>
+      <circle cx="12" cy="-27" r="6.5" fill="#f87171"/>
+    </g>
+  </g>
+
+  <g transform="translate(630,40)"><g class="tile" style="animation-name:tileig">
+    <rect class="tcard" width="240" height="64" rx="16" style="animation-name:flashig"/>
+    <g transform="translate(34,32.0)"><rect x="-14" y="-14" width="28" height="28" rx="8" class="gl"/><circle r="6.5" class="gl"/><circle cx="8.5" cy="-8.5" r="1.7" class="glf"/></g>
+    <text class="tlab" x="66" y="27">INSTAGRAM</text>
+    <text class="thandle" x="66" y="49">@your_instagram</text>
+  </g></g>
+
+  <g transform="translate(630,126)"><g class="tile" style="animation-name:tilefb">
+    <rect class="tcard" width="240" height="64" rx="16" style="animation-name:flashfb"/>
+    <g transform="translate(34,32.0)"><circle r="14" class="gl"/><text x="1.5" y="8" class="fbf">f</text></g>
+    <text class="tlab" x="66" y="27">FACEBOOK</text>
+    <text class="thandle" x="66" y="49">your.facebook</text>
+  </g></g>
+  <g transform="translate(430,84)"><g class="bub" style="animation-name:bubA"><rect x="-37.8" y="-32" width="75.6" height="30" rx="15" class="bbl"/><path d="M-6,-2 L0,8 L6,-2" class="bbl tail"/><text x="0" y="-12" class="btx">hello?</text></g></g>
+  <g transform="translate(430,84)"><g class="bub" style="animation-name:bubB"><rect x="-56.8" y="-32" width="113.6" height="30" rx="15" class="bbl"/><path d="M-6,-2 L0,8 L6,-2" class="bbl tail"/><text x="0" y="-12" class="btx">come say hi</text></g></g>
+
+  <g transform="translate(430,206)">
+    <ellipse class="shade" cx="6" cy="2" rx="40" ry="6"/>
+    <g class="hop"><g class="squash">
+      <polygon points="-34,-56 -22,-69 46,-69 34,-56" class="top"/>
+      <polygon points="34,-56 46,-69 46,-14 34,0" class="side"/>
+      <rect x="-34" y="-56" width="68" height="56" rx="9" class="front"/>
+      <g class="sprig"><path d="M14,-69 C13,-77 8,-81 2,-82" class="stem"/>
+        <ellipse cx="4" cy="-82" rx="6" ry="2.6" class="leaf" transform="rotate(-25 4 -82)"/>
+        <ellipse cx="17" cy="-76" rx="5.5" ry="2.4" class="leaf" transform="rotate(35 17 -76)"/></g>
+      <ellipse cx="-21" cy="-21" rx="6" ry="3.8" class="cheek"/><ellipse cx="21" cy="-21" rx="6" ry="3.8" class="cheek"/>
+      <ellipse cx="-12" cy="-32" rx="3.6" ry="4.4" class="eye"/><ellipse cx="12" cy="-32" rx="3.6" ry="4.4" class="eye"/>
+      <path d="M-6,-24 Q0,-17 6,-24" class="mouth"/>
+    </g></g>
+  </g>
+  <g transform="translate(470,150)"><g class="e" style="animation-name:ex0"><g class="e" style="animation-name:ey0"><g class="e look" style="animation-name:el0"><rect x="-14" y="-10" width="28" height="20" rx="3" class="envr"/><path d="M-14,-9 L0,2 L14,-9" class="flap"/></g></g></g></g>
+  <g transform="translate(470,150)"><g class="e" style="animation-name:ex1"><g class="e" style="animation-name:ey1"><g class="e look" style="animation-name:el1"><rect x="-14" y="-10" width="28" height="20" rx="3" class="envr"/><path d="M-14,-9 L0,2 L14,-9" class="flap"/></g></g></g></g>
+  <g transform="translate(470,150)"><g class="e" style="animation-name:ex2"><g class="e" style="animation-name:ey2"><g class="e look" style="animation-name:el2"><rect x="-14" y="-10" width="28" height="20" rx="3" class="envr"/><path d="M-14,-9 L0,2 L14,-9" class="flap"/></g></g></g></g>
+  <g transform="translate(470,150)"><g class="e" style="animation-name:ex3"><g class="e" style="animation-name:ey3"><g class="e look" style="animation-name:el3"><rect x="-14" y="-10" width="28" height="20" rx="3" class="envr"/><path d="M-14,-9 L0,2 L14,-9" class="flap"/></g></g></g></g>
+  
+</svg>
