@@ -21,15 +21,11 @@
 
 <br/>
 
-## &nbsp;About
+<div align="center">
 
-I build things for the web with a focus on **clarity, craft, and simplicity**.
-Less noise, more signal. I enjoy turning messy problems into clean, usable products.
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/about.svg" alt="About me: I build things for the web with a focus on clarity, craft, and simplicity. Currently working on my project, learning my next skill. Fun fact: I run on tofu, not coffee." width="100%" />
 
-- 🔭 &nbsp;Currently working on **your project**
-- 🌱 &nbsp;Learning **your next skill**
-- 💬 &nbsp;Ask me about **your expertise**
-- 🥢 &nbsp;Fun fact: **I run on tofu, not coffee**
+</div>
 
 <br/>
 
