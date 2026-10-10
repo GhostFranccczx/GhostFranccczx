@@ -33,7 +33,7 @@
     }
   </style>
 
-  <text class="big L" x="30" y="48" style="animation-delay:.10s">Hi, <tspan class="ac">Francoo.</tspan></text>
+  <text class="big L" x="30" y="48" style="animation-delay:.10s">Hi, <tspan class="ac">I'm Francoo.</tspan></text>
   <text class="in b L" x="30" y="84" style="animation-delay:.28s">An IT student exploring the things I like.</text>
   <line class="sep L" x1="30" y1="110" x2="870" y2="110" style="animation-delay:.45s"/>
   <g class="row L" style="animation-delay:0.60s">
