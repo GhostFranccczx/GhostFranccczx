@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="GhostFranccczx" width="100%" />
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/header.svg" alt="GhostFranccczx" width="100%" />
 
 <br/>
 
