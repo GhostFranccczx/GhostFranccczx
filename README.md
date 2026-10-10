@@ -45,9 +45,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GhostFranccczx&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5484D&icon_color=E5484D&text_color=8B8B8B&hide_title=false&card_width=400" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFranccczx&layout=compact&hide_border=true&bg_color=00000000&title_color=E5484D&text_color=8B8B8B&card_width=300" alt="Top languages" />
-
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/activity.svg" alt="Activity slot reels" width="100%" />
 
 </div>
 
