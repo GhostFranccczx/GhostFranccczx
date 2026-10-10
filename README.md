@@ -1,16 +1,8 @@
 <!-- Username assumed to be GhostFranccczx. Change it if your GitHub handle differs -->
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/header.svg" alt="GhostFranccczx" width="100%" />
-
 <br/>
-
-<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
-<a href="https://linkedin.com/in/GhostFranccczx"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/GhostFranccczx"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
 </div>
 
 <br/>
