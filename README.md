@@ -21,6 +21,8 @@
 
 <br/>
 
+## &nbsp;About
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/about.svg" alt="About me: I build things for the web with a focus on clarity, craft, and simplicity. Currently working on my project, learning my next skill. Fun fact: I run on tofu, not coffee." width="100%" />
