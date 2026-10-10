@@ -21,6 +21,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/journey.svg" alt="Tofu journey" width="100%" />
+
+</div>
+
+<br/>
+
 ## &nbsp;About
 
 <div align="center">
