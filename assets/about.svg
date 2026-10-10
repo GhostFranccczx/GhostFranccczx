@@ -45,7 +45,7 @@
   <g class="row R" style="animation-delay:0.82s">
     <rect class="bar" x="30" y="193" width="3" height="22" rx="1.5"/>
     <text class="lab" x="48" y="209">PROGRAMMING</text>
-    <text class="val" x="250" y="210">I love it for like 1%. I&#8217;I'd rather play League of Legends, TFT, or Valorant.</text>
+    <text class="val" x="250" y="210">I love it for like 1%. I&#8217;I'd rather play League of Legends.</text>
     <line class="sep" x1="30" y1="230" x2="870" y2="230"/>
   </g>
   <g class="row L" style="animation-delay:1.04s">
