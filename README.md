@@ -51,6 +51,22 @@
 
 <br/>
 
+## &nbsp;Contact
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/contact.svg" alt="A phone rings, tofu answers and sends envelopes flying to Instagram and Facebook" width="100%" />
+
+<br/>
+
+<!-- Replace YOUR_INSTAGRAM and YOUR_FACEBOOK with your own profile names -->
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E5484D,100:E5484D&fontColor=ffffff&animation=twinkling" width="100%" alt="" />
