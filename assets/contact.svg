@@ -380,14 +380,14 @@
     <rect class="tcard" width="240" height="64" rx="16" style="animation-name:flashig"/>
     <g transform="translate(34,32.0)"><rect x="-14" y="-14" width="28" height="28" rx="8" class="gl"/><circle r="6.5" class="gl"/><circle cx="8.5" cy="-8.5" r="1.7" class="glf"/></g>
     <text class="tlab" x="66" y="27">INSTAGRAM</text>
-    <text class="thandle" x="66" y="49">@your_instagram</text>
+    <text class="thandle" x="66" y="49">Franccctheghost</text>
   </g></g>
 
   <g transform="translate(630,126)"><g class="tile" style="animation-name:tilefb">
     <rect class="tcard" width="240" height="64" rx="16" style="animation-name:flashfb"/>
     <g transform="translate(34,32.0)"><circle r="14" class="gl"/><text x="1.5" y="8" class="fbf">f</text></g>
     <text class="tlab" x="66" y="27">FACEBOOK</text>
-    <text class="thandle" x="66" y="49">your.facebook</text>
+    <text class="thandle" x="66" y="49">John Francis</text>
   </g></g>
   <g transform="translate(430,84)"><g class="bub" style="animation-name:bubA"><rect x="-37.8" y="-32" width="75.6" height="30" rx="15" class="bbl"/><path d="M-6,-2 L0,8 L6,-2" class="bbl tail"/><text x="0" y="-12" class="btx">hello?</text></g></g>
   <g transform="translate(430,84)"><g class="bub" style="animation-name:bubB"><rect x="-56.8" y="-32" width="113.6" height="30" rx="15" class="bbl"/><path d="M-6,-2 L0,8 L6,-2" class="bbl tail"/><text x="0" y="-12" class="btx">come say hi</text></g></g>
