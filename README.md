@@ -60,8 +60,8 @@
 <br/>
 
 <!-- Replace YOUR_INSTAGRAM and YOUR_FACEBOOK with your own profile names -->
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://instagram.com/Franccctheghost"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://facebook.com/John Francis"><img src="https://img.shields.io/badge/FACEBOOK-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
 
