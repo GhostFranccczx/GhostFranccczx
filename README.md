@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/about.svg" alt="About me: Hi, Francoo. IT student, about 1% programmer, would rather play League of Legends, exploring the things I like." width="100%" />
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/aboutme.svg" alt="About me: Hi, Francoo. IT student, about 1% programmer, would rather play League of Legends, exploring the things I like." width="100%" />
 
 </div>
 
