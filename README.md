@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,git,figma&theme=dark&perline=9" alt="Tech stack" />
+<img src="https://raw.githubusercontent.com/GhostFranccczx/GhostFranccczx/main/assets/stack.svg" alt="Tech stack" width="100%" />
 
 </div>
 
