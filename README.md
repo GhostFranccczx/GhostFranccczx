@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1200&color=8B8B8B&center=true&vCenter=true&width=520&lines=Currently+working+on+something+exciting;Open+to+interesting+conversations;Coffee+%E2%86%92+code+%E2%86%92+repeat" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1200&color=8B8B8B&center=true&vCenter=true&width=520&lines=Currently+working+on+something+exciting;Open+to+interesting+conversations;Tofu+%E2%86%92+code+%E2%86%92+repeat" alt="Typing animation" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@ Less noise, more signal. I enjoy turning messy problems into clean, usable produ
 - 🔭 &nbsp;Currently working on **your project**
 - 🌱 &nbsp;Learning **your next skill**
 - 💬 &nbsp;Ask me about **your expertise**
-- ⚡ &nbsp;Fun fact: **something memorable**
+- 🥢 &nbsp;Fun fact: **I run on tofu, not coffee**
 
 <br/>
 
@@ -50,9 +50,6 @@ Less noise, more signal. I enjoy turning messy problems into clean, usable produ
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhostFranccczx&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5484D&icon_color=E5484D&text_color=8B8B8B&hide_title=false&card_width=400" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostFranccczx&layout=compact&hide_border=true&bg_color=00000000&title_color=E5484D&text_color=8B8B8B&card_width=300" alt="Top languages" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostFranccczx&hide_border=true&background=00000000&ring=E5484D&fire=E5484D&currStreakLabel=E5484D&sideLabels=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B&dates=8B8B8B" alt="Streak stats" />
 
 </div>
 
